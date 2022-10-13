@@ -1,0 +1,15 @@
+{
+    "EUSD": {
+        "contractName": "EUSD",
+        "contractAddress": "your EUSD address"
+    },
+    "Mint": {
+        "contractName": "Mint",
+        "contractAddress": "your Mint address"
+    },
+    "sTSLA": {
+        "contractName": "sAsset",
+        "contractAddress": "your sTSLA address",
+        "priceFeed": "0x56335e477dD121Ee7e92DE54F03404859C5d915B"
+    }
+}
